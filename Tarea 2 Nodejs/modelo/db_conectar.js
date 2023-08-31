@@ -10,7 +10,7 @@ const db = knex({
     connection: {
         host: 'localhost',
         user: 'root',
-        password: '2001.kokue',
+        password: '1610',
         database: 'Colegio'
     }
 })
